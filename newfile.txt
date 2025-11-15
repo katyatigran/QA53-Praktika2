@@ -1,1 +1,2 @@
 added first line
+2) Друга строка
